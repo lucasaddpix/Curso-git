@@ -1,6 +1,10 @@
 body{
 	background-color: rgb(150,150,150);
 }
+
+header{
+	background-color: pink;
+}
 .rodape{
 	position: bottom;
 }
